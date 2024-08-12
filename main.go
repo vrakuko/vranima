@@ -103,3 +103,4 @@ func getWaifuByID(c *gin.Context) {
     c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Waifu not found"})
 }
 
+//kyunrious
